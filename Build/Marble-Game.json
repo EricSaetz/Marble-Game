@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Marble-Game.data.unityweb",
+"asmCodeUrl": "Marble-Game.asm.code.unityweb",
+"asmMemoryUrl": "Marble-Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Marble-Game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
